@@ -1,4 +1,4 @@
-package src.com.codeWithKay;
+package com.codeWithKay;
 
 public class HelloWorld {
     public static void main(String[] args){
